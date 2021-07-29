@@ -19,7 +19,7 @@ Type : React based Frontend with API fetch
 
 Languages:HTML5, CSS3, JavaScript, Bootstrap.
 
-Framework: SASS
+Framework: SCSS
 
 Library:React
 
